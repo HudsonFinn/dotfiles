@@ -1,0 +1,44 @@
+# Git config stuff
+[user]
+	name = Finlay Hudson
+	email = 11finnh@gmail.com
+
+[core]
+	compression = 9
+	whitespace = error
+	preloadinex = true
+
+[init]
+	defaultBranch = main
+
+[status]
+	branch = true
+	showStash = true
+	showUntrackedFiles = all
+
+[diff]
+	context = 3
+	remnames = copies
+
+[log]
+	abbrevCommit = true
+	graphColors = blue,yellow,cyan,magenta,green,red
+
+[color "decorate"]
+	HEAD = red
+	branch = blue
+	tag = yellow
+	remoteBranch = magenta
+
+[color "branch"]
+	current = magenta
+	local = default
+	remote = yellow
+	upstream = green
+	plain = blue
+
+[branch]
+	sort = -committerdate
+
+[tag]
+	sort = -taggerdate
