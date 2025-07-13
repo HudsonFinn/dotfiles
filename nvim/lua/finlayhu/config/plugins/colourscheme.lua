@@ -9,7 +9,7 @@ return {
         -- Customize the colorscheme here
         flavour = "frappe", -- latte, frappe, macchiato, mocha
         background = {     -- :h background
-            light = "latte",
+            light = "frappe",
             dark = "frappe",
         },
         transparent_background = true,
@@ -30,9 +30,11 @@ return {
           types = {},
           operators = {},
         },
+	color_overrides = {},
         -- Integrations with other plugins
         integrations = {
           telescope = true,
+	  treesitter = true,
           -- For more integrations, see: https://github.com/catppuccin/nvim#integrations
         },
       })
