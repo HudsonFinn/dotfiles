@@ -7,10 +7,10 @@ return {
     config = function()
       require("catppuccin").setup({
         -- Customize the colorscheme here
-        flavour = "mocha", -- latte, frappe, macchiato, mocha
+        flavour = "frappe", -- latte, frappe, macchiato, mocha
         background = {     -- :h background
             light = "latte",
-            dark = "macchiato",
+            dark = "frappe",
         },
         transparent_background = true,
         term_colors = true,

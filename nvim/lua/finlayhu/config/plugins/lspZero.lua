@@ -1,4 +1,3 @@
-print("the language server is working");
 return {
   {
     'williamboman/mason.nvim',
