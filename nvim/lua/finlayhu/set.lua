@@ -11,3 +11,5 @@ vim.opt.tabstop=4
 vim.opt.shiftwidth=4
 
 vim.opt.shell='/bin/zsh'
+
+vim.g.netrw_bufsettings = 'noma nomod nu nowrap ro nobl'
