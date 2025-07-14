@@ -9,3 +9,5 @@ vim.diagnostic.config({ virtual_text = true })
 
 vim.opt.tabstop=4
 vim.opt.shiftwidth=4
+
+vim.opt.shell='/bin/zsh'
