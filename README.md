@@ -1,7 +1,7 @@
 TODO list
 - Add proper readme
 - Add file explorer to vim
-- [Done] Finish keybinds for tmux
+- [Done] Finish keybinds for wezterm
 - [Done] Fix coloring on Nvim
 - [Done] Move .zshrc config into this one
 
