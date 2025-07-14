@@ -1,3 +1,4 @@
+// https://github.com/gitui-org/gitui/blob/master/src/keys/key_list.rs#L39
 (
     move_left: Some(( code: Char('h'), modifiers: "")),
     move_right: Some(( code: Char('l'), modifiers: "")),

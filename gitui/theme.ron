@@ -1,3 +1,4 @@
+// https://github.com/gitui-org/gitui/blob/master/src/ui/style.rs#L344
 (
 	command_fg: Some("#CDD6F4"),
 	selection_bg: Some("#585B70"),
