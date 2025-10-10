@@ -3,11 +3,14 @@
 ################
 
 # Config aliases
-alias edit='vim ~/.zshrc'
-alias refresh='source ~/.zshrc'
+alias edit='vim ~/.config'
+alias refresh='exec zsh'
 
 alias ls='eza --icons always --hyperlink --oneline'
 alias vim='nvim'
+
+# Location aliases
+alias wp='cd ~/Workplace'
 
 # Git aliases
 alias gd='git diff'

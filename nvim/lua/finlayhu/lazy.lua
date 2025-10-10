@@ -21,7 +21,7 @@ vim.g.maplocalleader = "\\"
 
 -- Setup lazy.nvim with the plugins directory
 require("lazy").setup({
-	{import = "finlayhu.config.plugins"},
+	{import = "finlayhu.plugins"},
 }, {
 	install = { colorscheme = { "habamax" } },
 	checker = { enabled = true },
