@@ -11,6 +11,7 @@ alias vim='nvim'
 
 # Location aliases
 alias wp='cd ~/Workplace'
+alias ..='cd ..'
 
 # Git aliases
 alias gd='git diff'

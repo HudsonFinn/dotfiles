@@ -78,7 +78,7 @@ return {
 
 			require('mason-lspconfig').setup({
 				-- https://github.com/williamboman/mason-lspconfig.nvim#available-lsp-servers
-				ensure_installed = {'lua_ls', 'rust_analyzer', 'ast_grep', 'tsserver', 'eslint', 'html', 'cssls'},
+				ensure_installed = {'lua_ls', 'rust_analyzer', 'ast_grep', 'typescript-language-server', 'eslint', 'html', 'cssls'},
 				handlers = {
 					-- this first function is the "default handler"
 					-- it applies to every language server without a "custom handler"
