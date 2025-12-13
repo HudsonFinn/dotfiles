@@ -25,9 +25,9 @@ zinit light-mode for \
 
 ### End of Zinit's installer chunk
 
-##################
+################################
 ### Zinit config
-##################
+################################
 
 ## Load starship theme
 # line 1: `starship` binary as command, from github release

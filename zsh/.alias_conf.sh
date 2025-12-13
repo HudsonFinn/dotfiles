@@ -30,3 +30,6 @@ alias gi='git init'
 alias gcl='git clone'
 
 alias gs='git status --short'
+
+# Neofetch
+alias neofetch='neofetch --source ~/.config/neofetch/ascii.txt' 
