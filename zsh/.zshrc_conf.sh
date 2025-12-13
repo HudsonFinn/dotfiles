@@ -1,3 +1,12 @@
+################################
+# ZSH Aliases Config
+################################
+
+################################
+# Base config for zsh, 
+# sources all other files 
+################################
+
 # Source aliases first
 source ~/.config/zsh/.alias_conf.sh
 

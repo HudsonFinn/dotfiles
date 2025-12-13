@@ -1,6 +1,6 @@
-################
-# Aliases Config
-################
+################################
+# ZSH Aliases Config
+################################
 
 # Config aliases
 alias edit='vim ~/.config'
