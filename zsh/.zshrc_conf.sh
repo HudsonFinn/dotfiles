@@ -17,4 +17,4 @@ source ~/.config/zsh/.zinit_conf.sh
 source ~/.config/zsh/.bindings_conf.sh
 
 # Pretty startup
-neofetch
+# neofetch

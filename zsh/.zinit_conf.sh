@@ -52,4 +52,4 @@ zinit wait lucid light-mode for \
   blockf atpull'zinit creinstall -q .' \
       zsh-users/zsh-completions
 
-eval "$(zoxide init zsh)"
+eval "$(zoxide init zsh --cmd cd)"
